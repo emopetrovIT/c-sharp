@@ -1,0 +1,12 @@
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+C:\Repositories\c-sharp-OOP\Exams\C#_OOP_Retake_Exam-19_April_2019\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.genruntimeconfig.cache

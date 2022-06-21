@@ -1,0 +1,14 @@
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.deps.json
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Services.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Data.Models.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\bin\Debug\netstandard2.1\MoiteRecepti.Data.Common.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csprojAssemblyReference.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.AssemblyInfo.cs
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.csproj.CopyComplete
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\Services\MoiteRecepti.Services\obj\Debug\netstandard2.1\MoiteRecepti.Services.pdb

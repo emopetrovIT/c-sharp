@@ -1,0 +1,9 @@
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.deps.json
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\bin\Debug\netstandard2.1\MoiteRecepti.Common.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.csprojAssemblyReference.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.AssemblyInfo.cs
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\MoiteRecepti\MoiteRecepti.Common\obj\Debug\netstandard2.1\MoiteRecepti.Common.pdb

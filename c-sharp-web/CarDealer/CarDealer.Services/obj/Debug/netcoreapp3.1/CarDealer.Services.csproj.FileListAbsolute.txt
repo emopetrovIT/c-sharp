@@ -1,0 +1,12 @@
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\bin\Debug\netcoreapp3.1\CarDealer.Services.deps.json
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\bin\Debug\netcoreapp3.1\CarDealer.Services.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\bin\Debug\netcoreapp3.1\CarDealer.Services.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\bin\Debug\netcoreapp3.1\CarDealer.Data.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\bin\Debug\netcoreapp3.1\CarDealer.Data.pdb
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.csprojAssemblyReference.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.AssemblyInfoInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.AssemblyInfo.cs
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.csproj.CoreCompileInputs.cache
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.csproj.CopyComplete
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.dll
+C:\Repositories\c-sharp-repository\c-sharp-web\ASP.NET\CarDealer\CarDealer.Services\obj\Debug\netcoreapp3.1\CarDealer.Services.pdb
